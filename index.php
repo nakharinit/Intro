@@ -81,7 +81,7 @@
             <!-- กรอบรูปภาพ -->
             <div class="col-12">
                 <div class="hero-image-wrapper">
-                    <img src="batch_batch_0009_1575105146.jpg" alt="ทรงพระเจริญ" class="hero-image">
+                    <img src="king10.jpg" alt="ทรงพระเจริญ" class="hero-image">
                 </div>
             </div>
         </div>
