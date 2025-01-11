@@ -1,11 +1,21 @@
+MIT License
 
-### คำอธิบายของแต่ละส่วนใน **README.md** ที่อัปเดต:
-1. **ลิงก์ GitHub Pages**: ผมได้เปลี่ยนลิงก์เว็บไซต์เป็น [https://nakharinit.github.io/Intro/](https://nakharinit.github.io/Intro/) ซึ่งเป็นลิงก์ที่ GitHub Pages สร้างให้สำหรับ repository ของคุณ
-2. **การโคลน repository**: อัปเดตคำสั่ง **git clone** ให้เหมาะสมกับ repository ของคุณ
-3. **การเผยแพร่**: อธิบายวิธีการโฮสต์เว็บไซต์บน GitHub Pages
+© 2025 Nakharin, all rights reserved.
 
-### คำแนะนำ:
-- หากโปรเจกต์ของคุณมีการใช้ **PHP** จะไม่สามารถใช้ GitHub Pages ได้โดยตรงเนื่องจาก GitHub Pages รองรับแค่ HTML, CSS, และ JavaScript เท่านั้น คุณอาจต้องใช้ **บริการโฮสต์อื่น** ที่รองรับ PHP เช่น **Netlify**, **Vercel**, หรือ **Heroku** หากต้องการโฮสต์ PHP
-- อย่าลืมอัปโหลดไฟล์ **`README.md`** นี้ไปยัง GitHub repository ของคุณหลังจากที่เขียนเสร็จ
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-ถ้าคุณต้องการปรับปรุงหรือเพิ่มรายละเอียดใด ๆ ใน **README.md** หรือมีคำถามเกี่ยวกับการตั้งค่า GitHub Pages หรือโปรเจกต์อื่น ๆ สามารถถามได้เลยครับ!
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
