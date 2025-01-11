@@ -96,7 +96,7 @@
 
         <div class="d-flex justify-content-center flex-wrap">
             <a href="timeline.php" class="btn btn-custom">
-                <i class="bi bi-calendar"></i> สมเด็จมหาวชิราลงกรณ
+                <i class="bi bi-calendar"></i> ลงนามถวายพระพร
             </a>
             <a href="main.php" class="btn btn-custom">
                 <i class="bi bi-box-arrow-in-right"></i> เข้าสู่เว็บไซต์
