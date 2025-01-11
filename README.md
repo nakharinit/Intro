@@ -14,7 +14,7 @@
 
 ภาพตัวอย่างของเว็บไซต์:
 
-![Screenshot](images/demo.png)
+![Screenshot](images/Screenshot.png)
 
 ## การติดตั้ง
 
